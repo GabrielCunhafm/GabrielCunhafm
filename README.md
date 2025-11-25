@@ -33,17 +33,18 @@ Busco oportunidades para evoluir como **desenvolvedor de software** e contribuir
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielCunhafm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=GabrielCunhafm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
-<!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielCunhafm&layout=compact&theme=github_dark"/>
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=GabrielCunhafm&layout=compact&theme=github_dark" alt="Top Languages"/>
 
 </div>
+
 
 
 ## 📫 Como falar comigo
