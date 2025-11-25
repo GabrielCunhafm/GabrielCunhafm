@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Gabriel Flaviano Cunha
 
-<!--
-**GabrielCunhafm/GabrielCunhafm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação, estudante de **Sistemas de Informação** e apaixonado por tecnologia, dados e criação de soluções eficientes.  
+Atualmente foco meus estudos em **Python**, **desenvolvimento web**, **engenharia de dados** e **inteligência artificial**.
 
-Here are some ideas to get you started:
+Busco oportunidades para evoluir como **desenvolvedor de software** e contribuir em projetos que gerem impacto real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+- 🎓 Graduando em **Sistemas de Informação** (Anhanguera)
+- 🧪 Experiência com **Python**, **HTML**, **CSS**, **JavaScript**
+- 🛠️ Conhecimento em **Git & GitHub**, **Linux**, **Azure AI**, **Visão Computacional**
+- 📊 Interesse em **Análise de Dados**, **IA Generativa** e **Engenharia de Dados**
+- 💼 Profissional dedicado, organizado e com grande capacidade de aprendizado
+
+---
+
+## 📚 Principais formações
+- **Oracle Next Education (ONE – Turma 8)** – Alura  
+- **Python**, **POO**, **Desenvolvimento Web**, **Interface Gráfica em Python** – Fundação Bradesco  
+- **Engenharia de Dados**, **IA Generativa**, **Git/GitHub**, **Linux**, **Azure AI Vision** – Digital Innovation One  
+- **Gestão de Pessoas** – Anhanguera  
+
+---
+
+## 🧰 Tecnologias e Ferramentas
+- **Linguagens:** Python, JavaScript  
+- **Front-end:** HTML, CSS  
+- **Ferramentas:** Git, GitHub, Linux  
+- **Cloud & IA:** Azure AI, Copilot  
+- **Interesses:** Data Engineering, Computer Vision, APIs, Back-end
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<a href="https://github.com/GabrielCunhafm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCunhafm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</a>
+
+<!-- Most Used Languages -->
+<a href="https://github.com/GabrielCunhafm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCunhafm&layout=compact&theme=github_dark"/>
+</a>
+
+</div>
+
+---
+
+## 📫 Como falar comigo
+📧 **Email:** gabrielcunhafm@gmail.com  
+📍 Uberlândia – MG, Brasil  
+
+---
+
+⭐ *Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor!*
