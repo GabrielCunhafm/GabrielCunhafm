@@ -38,18 +38,13 @@ Busco oportunidades para evoluir como **desenvolvedor de software** e contribuir
 <div align="center">
 
 <!-- GitHub Stats -->
-<a href="https://github.com/GabrielCunhafm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCunhafm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</a>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielCunhafm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
 <!-- Most Used Languages -->
-<a href="https://github.com/GabrielCunhafm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCunhafm&layout=compact&theme=github_dark"/>
-</a>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielCunhafm&layout=compact&theme=github_dark"/>
 
 </div>
 
----
 
 ## 📫 Como falar comigo
 📧 **Email:** gabrielcunhafm@gmail.com  
